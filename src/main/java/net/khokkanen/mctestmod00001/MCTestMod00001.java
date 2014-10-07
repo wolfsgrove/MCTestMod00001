@@ -8,6 +8,9 @@ import cpw.mods.fml.common.event.FMLPreInitializationEvent;
 @Mod(modid = "MCTestMod00001", name = "Minecraft Test Mod 00001", version = "1.7.10-0.1")
 public class MCTestMod00001
 {
+    @Mod.Instance("MCTestMod00001")
+    public static MCTestMod00001 instance;
+
     @Mod.EventHandler
     public void preInit(FMLPreInitializationEvent event)
     {
