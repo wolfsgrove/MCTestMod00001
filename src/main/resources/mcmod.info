@@ -1,0 +1,21 @@
+[
+{
+  "modid": "MCTestMod00001",
+  "name": "Minecraft Test Mod 00001",
+  "description": "Testing Minecraft modding with the help of Pahimar's Let's Mod Reboot.",
+  "version": "1.7.10-0.1",
+  "mcversion": "1.7.10",
+  "url": "https://github.com/khokkanen/MCTestMod00001",
+  "updateUrl": "",
+  "authorList": [
+    "khokkanen"
+  ],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
